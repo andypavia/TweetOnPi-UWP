@@ -1,0 +1,32 @@
+c:\users\kiseksen\documents\visual studio 2015\Projects\TweetOnPi\TweetOnPi\bin\ARM\Debug\ReverseMap\resources.pri
+c:\users\kiseksen\documents\visual studio 2015\Projects\TweetOnPi\TweetOnPi\bin\ARM\Debug\AppxManifest.xml
+c:\users\kiseksen\documents\visual studio 2015\Projects\TweetOnPi\TweetOnPi\bin\ARM\Debug\TweetOnPi.build.appxrecipe
+c:\users\kiseksen\documents\visual studio 2015\Projects\TweetOnPi\TweetOnPi\bld\ARM\Debug\ResourceHandlingTask.state
+c:\users\kiseksen\documents\visual studio 2015\Projects\TweetOnPi\TweetOnPi\bld\ARM\Debug\priconfig.xml
+c:\users\kiseksen\documents\visual studio 2015\Projects\TweetOnPi\TweetOnPi\bld\ARM\Debug\priconfig.xml.intermediate
+c:\users\kiseksen\documents\visual studio 2015\Projects\TweetOnPi\TweetOnPi\bld\ARM\Debug\layout.resfiles
+c:\users\kiseksen\documents\visual studio 2015\Projects\TweetOnPi\TweetOnPi\bld\ARM\Debug\layout.resfiles.intermediate
+c:\users\kiseksen\documents\visual studio 2015\Projects\TweetOnPi\TweetOnPi\bld\ARM\Debug\resources.resfiles
+c:\users\kiseksen\documents\visual studio 2015\Projects\TweetOnPi\TweetOnPi\bld\ARM\Debug\resources.resfiles.intermediate
+c:\users\kiseksen\documents\visual studio 2015\Projects\TweetOnPi\TweetOnPi\bld\ARM\Debug\pri.resfiles
+c:\users\kiseksen\documents\visual studio 2015\Projects\TweetOnPi\TweetOnPi\bld\ARM\Debug\pri.resfiles.intermediate
+c:\users\kiseksen\documents\visual studio 2015\Projects\TweetOnPi\TweetOnPi\bld\ARM\Debug\qualifiers.txt
+c:\users\kiseksen\documents\visual studio 2015\Projects\TweetOnPi\TweetOnPi\bld\ARM\Debug\qualifiers.txt.intermediate
+c:\users\kiseksen\documents\visual studio 2015\Projects\TweetOnPi\TweetOnPi\bld\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\kiseksen\documents\visual studio 2015\Projects\TweetOnPi\TweetOnPi\bld\ARM\Debug\ProjectArchitectures.txt
+C:\Users\apavia\dev\meteorOnPi\TweetOnPiRP2\TweetOnPi\bin\ARM\Debug\ReverseMap\resources.pri
+C:\Users\apavia\dev\meteorOnPi\TweetOnPiRP2\TweetOnPi\bin\ARM\Debug\AppxManifest.xml
+C:\Users\apavia\dev\meteorOnPi\TweetOnPiRP2\TweetOnPi\bin\ARM\Debug\TweetOnPi.build.appxrecipe
+C:\Users\apavia\dev\meteorOnPi\TweetOnPiRP2\TweetOnPi\bld\ARM\Debug\ResourceHandlingTask.state
+C:\Users\apavia\dev\meteorOnPi\TweetOnPiRP2\TweetOnPi\bld\ARM\Debug\priconfig.xml
+C:\Users\apavia\dev\meteorOnPi\TweetOnPiRP2\TweetOnPi\bld\ARM\Debug\priconfig.xml.intermediate
+C:\Users\apavia\dev\meteorOnPi\TweetOnPiRP2\TweetOnPi\bld\ARM\Debug\layout.resfiles
+C:\Users\apavia\dev\meteorOnPi\TweetOnPiRP2\TweetOnPi\bld\ARM\Debug\layout.resfiles.intermediate
+C:\Users\apavia\dev\meteorOnPi\TweetOnPiRP2\TweetOnPi\bld\ARM\Debug\resources.resfiles
+C:\Users\apavia\dev\meteorOnPi\TweetOnPiRP2\TweetOnPi\bld\ARM\Debug\resources.resfiles.intermediate
+C:\Users\apavia\dev\meteorOnPi\TweetOnPiRP2\TweetOnPi\bld\ARM\Debug\pri.resfiles
+C:\Users\apavia\dev\meteorOnPi\TweetOnPiRP2\TweetOnPi\bld\ARM\Debug\pri.resfiles.intermediate
+C:\Users\apavia\dev\meteorOnPi\TweetOnPiRP2\TweetOnPi\bld\ARM\Debug\qualifiers.txt
+C:\Users\apavia\dev\meteorOnPi\TweetOnPiRP2\TweetOnPi\bld\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\apavia\dev\meteorOnPi\TweetOnPiRP2\TweetOnPi\bld\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\apavia\dev\meteorOnPi\TweetOnPiRP2\TweetOnPi\bld\ARM\Debug\ProjectArchitectures.txt
